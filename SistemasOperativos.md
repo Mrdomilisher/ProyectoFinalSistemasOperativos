@@ -4,16 +4,16 @@
 ## ¿Qué hace un Sistema Operativo?
 <font size=3>Trabaja con los componentes de un equipo de computadora o dispositivo electrónico utilizando varios programas.</font>
 
-<img src="w11.png" width="200">
-<img src="ub.png" width="200">
-<img src="mac.png" width="200">
+<img src="w11.png" class="centerImage" width="200">
+<img src="ub.png" class="centerImage" width="200">
+<img src="mac.png" class="centerImage" width="200">
 
 
 ---
 ## ¿Qué es el Open Source?
 <font size=3>Es el software, que se distribuye con una licencia de código abierto que permite al usuario, si tiene las capacidades necesarias, poder utilizar el código fuente para modificarlo y realizar cambios y mejoras</font>
 
-<img src="Opensource.png" width="200">
+<img src="Opensource.png" class="centerImage" width="200">
 
 ---
 ## Comandos básicos de la terminal de Unix
