@@ -63,6 +63,7 @@
 - <font size=5>git push</font>
 
  <font size=3>Sube los cambios a nuestro cliente remoto por ejemplo github</font>
+
+ 
 ![](unix.png)
  ---
- 
