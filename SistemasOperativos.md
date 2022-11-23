@@ -74,11 +74,16 @@
  ---
 
 ## <center>Historia de los sistemas operativos Mac OS, Ubuntu y Windows</center>
+
 <ul>
- <li><font size=5>Mac OS</font></li>
+
+ <li><font size=6>Mac OS</font></li>
+
  <font size=3>Mac OS es el sistema operativo de computadoras de Apple, fue creado en 1984. Es un sistema operativo tipo UNIX. La primera versión se llamó "System 1.0", tenía escritorio, ventanas, iconos, mouse, menús y scrollbars.
 
+
  <center ><img src="sistema1.png" width="300"></center>
+
 
 En 1985, se creó el "System 2.0" con mejoras de rendimiento y se agregaron más opciones como crear nuevos folders, los items eran listados de forma vertical con un icono, los discos podían ser arrastrados al icono de basura y podían ser extraídos.
 
@@ -97,12 +102,12 @@ Nos salteamos a 1997 donde se implementó el "primer Mac OS", el cual fue el Mac
 <center ><img src="macos8.png" width="300"></center>
 
 Desde 2001 hasta la actualidad se utiliza el Mac OS X que se va actualizando con el paso del tiempo. Al principio eran nombrado con felinos pero actualmente es con nombre de montañas
-En 2001 fue lanzado el Mac OS X 10.0 "Cheetah", Mac OS X 10.1 "Puma". En 2002, el Mac OS X 10.2 "Jaguar". 2003, Mac OS X 10.3 "Panther" y actualmente contamos con el Mac OS X 13.0 "Ventura", se van actualizando periodicamente segun los requisitos del usuario y del Hardware
+En 2001 fue lanzado el Mac OS X 10.0 "Cheetah", Mac OS X 10.1 "Puma". En 2002, el Mac OS X 10.2 "Jaguar". 2003, Mac OS X 10.3 "Panther" y actualmente contamos con el Mac OS X 13.0 "Ventura", se van actualizando periodicamente segun los requisitos del usuario y del Hardware</font>
 
 <center ><img src="macosx.jpg" width="300"></center>
 
  </font>
-<li> Ubuntu</li>
+<li><font size=6> Ubuntu</li></font>
 
  <font size=3>Ubuntu es un distro de Linux basado en Debian GNU, con software libre y de codigo abierto. El objetivo inicial era hacer de Debian una distribución más fácil de usar y entender para los usuarios finales, corrigiendo varios errores de este y haciendo más sencillas algunas tareas como la gestión de programas. Su primer lanzamiento fue el 20 de octubre de 2004 con nombre Warty Warthog.
 <center ><img src="warty.jpg" width="300"></center>
@@ -165,4 +170,4 @@ El 5 de octubre de 2021 salió Windows 11 que incorpora una interfaz de usuario 
 
 ## 
 
- </ul>
+ 
