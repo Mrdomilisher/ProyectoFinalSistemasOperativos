@@ -77,19 +77,29 @@
 <ul>
  <li><font size=5>Mac OS</font></li>
  <font size=3>Mac OS es el sistema operativo de computadoras de Apple, fue creado en 1984. Es un sistema operativo tipo UNIX. La primera versión se llamó "System 1.0", tenía escritorio, ventanas, iconos, mouse, menús y scrollbars.
+
  <center ><img src="sistema1.png" width="300"></center>
+
 En 1985, se creó el "System 2.0" con mejoras de rendimiento y se agregaron más opciones como crear nuevos folders, los items eran listados de forma vertical con un icono, los discos podían ser arrastrados al icono de basura y podían ser extraídos.
+
 <center ><img src="sistema2.jpg" width="300"></center>
+
 En 1986 se mejoró a "System 3.0", el Finder fue mejorado y más rápido, el orden de archivos HFS fue reemplazado por el nuevo MFS. Se podían crear folders dentro de folders, los iconos con Zoom uferon agregados y se agregó AppleShare
+
 <center ><img src="sistema3.png" width="300"></center>
+
 Sistema 4 fue introducio como Macintosh SE y Macintosh II en 1987. Se le agregó múltiple soporte de monitor, soportaba discos de 32+ MB, se le implemento el Finder múltiple y ya mostraba cuanta memoria utilizaba cada programa.
+
 <center ><img src="sistema4.png" width="300"></center>
+
 Nos salteamos a 1997 donde se implementó el "primer Mac OS", el cual fue el Mac OS 8 que incluyó una renovación al Finder que podía hacer más cosas al mismo tiempo, dando la opción de controlas múltiples aplicaciones al mismo tiempo con un mejor desempeño y se introdujo Sherlock
+
 <center ><img src="macos8.png" width="300"></center>
+
 Desde 2001 hasta la actualidad se utiliza el Mac OS X que se va actualizando con el paso del tiempo. Al principio eran nombrado con felinos pero actualmente es con nombre de montañas
 En 2001 fue lanzado el Mac OS X 10.0 "Cheetah", Mac OS X 10.1 "Puma". En 2002, el Mac OS X 10.2 "Jaguar". 2003, Mac OS X 10.3 "Panther" y actualmente contamos con el Mac OS X 13.0 "Ventura", se van actualizando periodicamente segun los requisitos del usuario y del Hardware
-<center ><img src="macosx.jpg" width="300"></center>
 
+<center ><img src="macosx.jpg" width="300"></center>
 
  </font>
 <li> Ubuntu</li>
