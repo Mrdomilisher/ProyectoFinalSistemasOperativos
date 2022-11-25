@@ -209,7 +209,7 @@ También denominado FCFS (First Come First Served), es un algoritmo que utiliza 
 
 Conocido como SJF (Shortest Job First). Este proceso se distingue porque cuando un proceso se encuentra en ejecución, voluntariamente cambia de estado, es decir que el tiempo de ejecución del proceso no es determinado. Por lo cual cada proceso tiene una asignación de tiempo cuando vuelve a ser ejecutado y va ejecutando el proceso con la menor cantidad de tiempo asignada. Al encontrarse que dos algoritmos poseen la misma cantidad de tiempo, se utilizará el algoritmo FCFS.
 
-  <center ><img src="img/sjf.png" width="250"></center>
+  <center ><img src="img/SJF.png" width="250"></center>
 
 
 ---
