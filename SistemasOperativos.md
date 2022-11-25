@@ -236,3 +236,27 @@ SRAM (Static Random Access Memory) Es una memoria volatil, que quiere decir que 
 
 SDRAM (Synchronous dynamic random access memory) Se utiliza para implementar la memoria principal
   <center ><img src="img/sdram.jpg" width="300"></center>
+
+---
+# <center>Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia </center>
+
+<li><font size="5">Virtualizacion de CPU</li></font>
+El sistema operativo está a cargo de la ilusión de que el sistema tiene una gran cantidad de CPU virtuales. Convertir una sola CPU en un número aparentemente infinito de CPU y, por lo tanto, permitir que muchos programas aparentemente se ejecuten a la vez es lo que llamamos virtualizar la CPU.
+  <center ><img src="img/virtualizacion.png" width="300"></center>
+
+
+<li><font size="5">Virtualizacion de Memoria</li></font>
+El sistema operativo proporciona una ilusión para el espacio de memoria de cada proceso, cada proceso cree que utiliza todos los recursos de memoria de la máquina.
+  <center ><img src="img/memoria.png" width="300"></center>
+
+
+<li><font size="5">Concurrencia</li></font>
+Es una serie de problemas que surgen y deben abordarse cuando se trabaja en muchas cosas al mismo tiempo en el mismo programa. Los problemas de concurrencia surgieron primero dentro del propio sistema operativo.
+  <center ><img src="img/concurrencia1.png" width="300"></center>
+
+<li><font size="5">Persistencia</li></font>
+En la memoria del sistema, los datos se pueden perder fácilmente, ya que dispositivos como la DRAM almacenan valores de manera volátil; cuando se corta la energía o el sistema falla, se pierden todos los datos en la memoria. Por lo tanto, necesitamos hardware y software para poder almacenar datos de forma persistente.
+  <center ><img src="img/persistencia.png" width="300"></center>
+
+  ---
+  
