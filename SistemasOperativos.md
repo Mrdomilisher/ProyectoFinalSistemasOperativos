@@ -173,6 +173,66 @@ En 2001 fue lanzado el Mac OS X 10.0 "Cheetah", Mac OS X 10.1 "Puma". En 2002, e
 
 ---
 
-## <Center> Dispositivos de Entrada/Salida </center>
+# <Center>  Dispositivos de Entrada/Salida </center>
 
- 
+<li><font size="5">Dispositivos de entrada</li></font>
+
+Los dispositivos de entrada son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento. A través de ellos se transforma la información de entrada en señales eléctricas.
+
+ <center ><img src="img/teclado.jpg" width="300"></center>
+ <center ><img src="img/mouse.jpg" width="200"></center>
+
+
+<li><font size="5">Dispositivos de salida</li></font>
+
+Los dispositivos de salida son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonidos o táctil. Estos realizan la función de extraer datos de la memoria central hacia el exterior.
+ <center ><img src="img/audi.jpg" width="200"></center>
+ <center ><img src="img/monitor.jpg" width="200"></center>
+
+ ---
+ # <center>Procesos</center>
+ Un proceso es el nombre con el que se denomina la ejecución de un programa individual, representado por una serie de instrucciones que el procesador debe ejecutar, la mayoría de los sistemas operativos modernos basan toda su estructura de diseño alrededor de este concepto
+  <center ><img src="img/procesador.jpg" width="250"></center>
+
+
+## <center><font size="5"> Algoritmos de planeacion </font></center>
+
+
+<li><font size="4">Primero en Entrar-Primero en Salir</font></li>
+
+También denominado FCFS (First Come First Served), es un algoritmo que utiliza una fila de procesos determinando el funcionamiento de cada proceso por el orden de llegada. Al llegar el proceso es puesto detrás del que llegó antes que él. Se resalta que al comenzar a ejecutarse un proceso, su ejecución no es interrumpida hasta terminar.
+
+  <center ><img src="img/process2.jpg" width="250"></center>
+
+
+<li>Prioridad al más corto</li>
+
+Conocido como SJF (Shortest Job First). Este proceso se distingue porque cuando un proceso se encuentra en ejecución, voluntariamente cambia de estado, es decir que el tiempo de ejecución del proceso no es determinado. Por lo cual cada proceso tiene una asignación de tiempo cuando vuelve a ser ejecutado y va ejecutando el proceso con la menor cantidad de tiempo asignada. Al encontrarse que dos algoritmos poseen la misma cantidad de tiempo, se utilizará el algoritmo FCFS.
+
+  <center ><img src="img/sjf.png" width="250"></center>
+
+
+---
+# <center>Almacenamiento y Jerarquía de Memoria</center>
+
+Un dispositivo de almacenamiento de datos es un conjunto de componentes electrónicos habilitados para leer o grabar datos en el soporte de almacenamiento de datos de forma temporal o permanente.
+  <center ><img src="img/hdd.jpg" width="250"></center>
+
+
+<li>La unidad minima o básica es el bit y se representa por la letra b, simplemente es un 0 o 1, hay corriente o no hay corriente.</li>
+
+<li>El Byte (B) es la primera unidad de almacenamiento que tiene sentido, esta compuesta por 8 bits, un Byte es aproximadamente un caracter.</li>
+
+  <center ><img src="img/tabla.png" width="250"></center>
+
+La jerarquía de memoria es la organización piramidal de la memoria en niveles que tienen las computadoras. El objetivo es conseguir el rendimiento de una memoria de gran velocidad al coste de una memoria de baja velocidad, basándose en el principio de cercanía de referencias.
+
+  <center ><img src="img/jerar.png" width="350"></center>
+
+SRAM (Static Random Access Memory) Es una memoria volatil, que quiere decir que los datos se pierden cuando es apgado el dispositivo. Se utiliza para implementar la cache.
+
+  <center ><img src="img/sram.jpg" width="300"></center>
+
+
+SDRAM (Synchronous dynamic random access memory) Se utiliza para implementar la memoria principal
+  <center ><img src="img/sdram.jpg" width="300"></center>
