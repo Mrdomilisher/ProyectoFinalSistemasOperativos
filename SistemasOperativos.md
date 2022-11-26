@@ -1,5 +1,12 @@
 # <center>**Sistemas Operativos**</center>
-### <center>Dariel Armando Morua Ramírez 12119</center>
+<center><img src="img/logo.png" width="250"></center>
+
+## <center>Dariel Armando Morua Ramírez 12119 </center>
+##   <center>Docente: Jorge Luis Romo González</center>
+## <center>Materia: Sistemas Operativos</center>
+
+
+
 ---
 
 
