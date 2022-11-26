@@ -303,20 +303,20 @@ En la memoria del sistema, los datos se pueden perder fácilmente, ya que dispos
 
 <li>Flashear la USB con la ISO</li>
 
- <center ><img src="img/rufus2.png" width="200"></center>
+ <center ><img src="img/rufus2.png" width="300"></center>
 
-  <center ><img src="img/balena2.png" width="200"></center>
+  <center ><img src="img/balena2.png" width="350"></center>
 
 <li>Una vez flasheada la USB, entrar a la BIOS de tu computadora y darle el boot priority a la USB</li>
 
-  <center ><img src="img/bios2.png" width="250"></center>
+  <center ><img src="img/bios2.png" width="550"></center>
 
 <li>Seguir los pasos de instalción de la distro</li>
 
-  <center ><img src="img/pop2.png" width="250"></center>
+  <center ><img src="img/pop2.png" width="666"></center>
 
 <li>Disfrutar</li>
 
-  <center ><img src="img/pop3.png" width="300"></center>
+  <center ><img src="img/pop3.png" width="450"></center>
 
 
