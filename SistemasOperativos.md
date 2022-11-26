@@ -4,7 +4,7 @@
 ## <center>Dariel Armando Morua Ramírez 12119 </center>
 ##   <center>Docente: Jorge Luis Romo González</center>
 ## <center>Materia: Sistemas Operativos</center>
-
+## <center>Fecha: 26 de Noviembre 2022</center>
 
 
 ---
