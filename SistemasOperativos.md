@@ -259,4 +259,45 @@ En la memoria del sistema, los datos se pueden perder fácilmente, ya que dispos
   <center ><img src="img/persistencia.png" width="300"></center>
 
   ---
-  
+  # <center>Personajes importantes para los sistemas operativos </center>
+<li>Kenneth Lane Thompson</li>
+
+<li>Dennis Ritchie</li>
+
+<li>Gary Kildall</li>
+
+<li>Tim Paterson</li>
+
+<li>Linus Torvalds</li>
+
+<li>Bill Atkinson, Jef Raskin, Andy Hertzfeld</li>
+
+<li>Jim Hall</li>
+
+---
+
+# <center>Como instalar una distribución de Linux </center>
+
+<ol>
+
+<li>Elegir una distribución a descargar segun sus necesidades </li>
+  <center ><img src="img/distros.png" width="300"></center>
+
+<li>Descargar la ISO, en mi caso es Pop!_OS</li>
+  <center ><img src="img/pop1.png" width="300"></center>
+<li>Descargar una aplicación para bootear una USB, ya sea RUFUS o  balenaEtcher</li>
+  <center ><img src="img/rufus.jpg" width="200"></center>
+  <center ><img src="img/balena.jpg" width="200"></center>
+
+<li>Flashear la USB con la ISO</li>
+ <center ><img src="img/rufus2.png" width="200"></center>
+  <center ><img src="img/balena2.png" width="200"></center>
+<li>Una vez flasheada la USB, entrar a la BIOS de tu computadora y darle el boot priority a la USB</li>
+  <center ><img src="img/bios2.png" width="250"></center>
+
+<li>Seguir los pasos de instalción de la distro</li>
+  <center ><img src="img/pop2.png" width="250"></center>
+<li>Disfrutar</li>
+  <center ><img src="img/pop3.png" width="300"></center>
+
+
