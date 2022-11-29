@@ -276,17 +276,46 @@ En la memoria del sistema, los datos se pueden perder fácilmente, ya que dispos
 
 <li>Kenneth Lane Thompson</li>
 
+En los años 60, Thompson y Dennis Ritchie trabajaron el sistema operativo Multics. Mientras escribía Multics, Thompson creó el lenguaje de programación B, el cual sería el precursor del C. Tanto Thompson como Ritchie abandonaron el desarrollo de Multics por su creciente complejidad, y en 1969 crean el sistema operativo UNIX.
+
+  <center ><img src="img/kenneth.png" width="300"></center>
+
 <li>Dennis Ritchie</li>
+
+Colaboró en el diseño y desarrollo de los sistemas operativos Multics y Unix, así como el desarrollo de varios lenguajes de programación como el C.
+
+  <center ><img src="img/dennis.jpg" width="200"></center>
 
 <li>Gary Kildall</li>
 
+Fue el creador del sistema operativo CP/M (posteriormente DR-DOS y de la interfaz gráfica de usuario GEM Desktop, y fundador de Digital Research).
+
+  <center ><img src="img/gary.jpg" width="200"></center>
+
 <li>Tim Paterson</li>
+
+Tim Paterson es un ingeniero informático que escribió el sistema operativo QDOS.
+
+  <center ><img src="img/tim.jpg" width="200"></center>
 
 <li>Linus Torvalds</li>
 
-<li>Bill Atkinson, Jef Raskin, Andy Hertzfeld</li>
+Creador del kernel de Linux basandose del sistema operativo Minix, desarrollador y creador el software de control de versiones Git, creó una implementación que ejecuta cualquier tipo de programa IBM/PC
 
-<li>Jim Hall</li>
+  <center ><img src="img/linus.png" width="200"></center>
+
+
+
+<li>Bill Atkinson, Jef Raskin</li>
+
+Bill Atkinson fue un destacado empleado de Apple A su labor como programador se deben aplicaciones muy orientadas a la interfaz gráfica de usuario como HyperCard, MacPaint o el API QuickDraw
+
+  <center ><img src="img/bill.jpg" width="250"></center>
+
+
+Jef Raskin Diseñador de interfaces de usuario. Conocido principalmente por fundar el proyecto Macintosh para Apple Computer a fines de los años 70 y por los ordenadores Canon Cat de la compañía japonesa Canon.
+
+  <center ><img src="img/jef.jpg" width="250"></center>
 
 ---
 
@@ -325,5 +354,3 @@ En la memoria del sistema, los datos se pueden perder fácilmente, ya que dispos
 <li>Disfrutar</li>
 
   <center ><img src="img/pop3.png" width="450"></center>
-
-
