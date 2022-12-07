@@ -354,3 +354,7 @@ Jef Raskin Diseñador de interfaces de usuario. Conocido principalmente por fund
 <li>Disfrutar</li>
 
   <center ><img src="img/pop3.png" width="450"></center>
+
+---
+
+## <center>He finalizado mi proyecto final</center>
