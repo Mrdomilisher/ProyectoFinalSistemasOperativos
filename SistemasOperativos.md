@@ -357,4 +357,4 @@ Jef Raskin Diseñador de interfaces de usuario. Conocido principalmente por fund
 
 ---
 
-## <center>He finalizado mi proyecto final</center>
+# He finalizado mi proyecto final, soy Juvey
